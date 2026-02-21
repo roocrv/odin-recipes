@@ -1,1 +1,2 @@
 # odin-recipes
+This project helped me put to practice all that I have learned during The Odin Project's HTML Foundations course by setting up a basic recipes website. I used VSCode to build it using an HTML boilerplate, index, different pages, links and images.
